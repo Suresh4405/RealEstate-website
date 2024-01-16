@@ -1,0 +1,116 @@
+.blogg{
+    margin-top: 5%;
+    margin-left: 44%;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+
+.total{
+    display: flex;
+    margin-top: 5%;
+    float: left;
+    position: relative;
+}
+.bigimg{
+    background-image: url("../assets/pict1.jpg");
+    background-repeat: no-repeat;
+    background-size: 750px;
+    width: 400px;
+    height: 520px;
+    border: 1px solid;
+    margin-left: 2%;
+    border: none;
+    
+}
+.box1{
+    background-image: url("../assets/lay1.jpg");
+    background-repeat: no-repeat;
+    background-size: 450px;
+    width: 450px;
+    height: 220px;
+    border: 1px solid;
+     margin-left: 50px;
+     border: none;
+   
+}
+.box2{
+    background-image: url("../assets/lay2.jpeg");
+    background-repeat: no-repeat;
+    background-size: 350px;
+    width: 450px;
+    height: 220px;
+    border: 1px solid;
+    margin-left: 40px;
+    border: none;
+}
+.total2{
+    display: flex;
+}
+.box3{
+    background-image: url("../assets/lay3.jpg");
+    background-repeat: no-repeat;
+    background-size: 450px;
+    width: 450px;
+    height: 220px;
+    border: 1px solid;
+    margin-top: 290px;
+    margin-left: -925px;
+    border: none;
+}
+.box4{
+    background-image: url("../assets/lay4.jpg");
+    background-repeat: no-repeat;
+    background-size: 350px;
+    width: 450px;
+    height: 220px;
+    border: 1px solid;
+    margin-top: 290px;
+    margin-left: 38px;
+    border: none;
+
+}
+.bigimgcol{
+    color:wheat;
+    margin-top: 425px;
+    margin-left: 2%;
+    font-size: large;
+    font-weight: bold;
+}
+.box1col{
+    color:darkred;
+    margin-top: 165px;
+    margin-left: 3%;
+    font-size: large;
+    font-weight: bold;
+}
+.box2col{
+    color:black;
+    margin-top: 155px;
+    margin-left: 2%;
+    font-size: large;
+    font-weight: bold;
+}
+.box3col{
+    color:black;
+    margin-top: 185px;
+    margin-left: 2%;
+    font-size: large;
+    font-weight: bold;   
+}
+.box4col{
+    color:whitesmoke;
+    margin-top: 165px;
+    margin-left: 2%;
+    font-size: large;
+    font-weight: bold;  
+}
+.box5{
+    margin: 0;
+    padding: 0;
+    border: 1px solid;
+    background-color: black;
+}
+.enddd{
+    color: white;
+}

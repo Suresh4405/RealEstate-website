@@ -1,0 +1,26 @@
+
+.backimg{
+    background-image: url("../assets/oneer.jpg");
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    background-size: 650px;
+    margin: auto;
+    width: 650px;
+    height: 600px;
+  
+    margin-top: 2%;
+
+}
+.text{
+  /* text-align: center; */
+  display: flex;
+ 
+}
+.tex {
+  margin-left: 5%;
+margin-top: 65%;
+color: white;
+font-size: larger;
+
+}

@@ -1,0 +1,122 @@
+.doc-1{
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: #00308F;
+  color: white;
+  display: flex;
+ 
+}
+.mail-img{
+  float: left;
+  width: 25px;
+  height: 30px;
+  margin-left: 15%;
+  margin-top: 9px;
+}
+.mail{
+  margin-left: 1%;
+  margin-top: 1%;
+  
+}
+.phone-img{
+  float: left;
+  width: 25px;
+  height: 30px;
+  margin-left: 4%;
+  margin-top: 8px;
+}
+.phone{
+  margin-left: 1%; 
+  margin-top: 1%;
+}
+.brad{
+  margin-left: 30%;
+  width: 30px;
+  height: 30px;
+  margin-top: 8px;
+}
+.pinterest{
+  
+  width: 30px;
+  height: 30px;
+  margin-left: 2%;
+  margin-top: 8px;
+}
+.twitter{
+  
+  width: 30px;
+  height: 30px;
+  margin-top: 8px;
+  margin-left: 2%;
+}
+.facebook{
+  
+  width: 30px;
+  height: 30px;
+  margin-left: 2%;
+  margin-top: 8px;
+}
+
+.doc-2{
+  width: 100%;
+padding: 12px; 
+margin-top: 20px;
+display: flex;
+}
+.doc-2 p {
+  display: flex;
+  
+}
+.vip{
+  margin-left: 12%;
+  color: #00308F;
+  font-size: xx-large;
+  margin-top: 3%;
+  font-weight: bolder;
+}
+.Real-Estate{
+font-family:sans-serif;
+font-weight: lighter ;
+font-size: large;
+margin-left: 1%;
+margin-top: 4%;
+font-weight: lighter;
+}
+.home{
+  font-family:sans-serif;
+  font-weight: lighter ;
+  margin-left: 20%;
+  margin-top: 4%;
+ 
+}
+.about{
+  font-family:sans-serif;
+  font-weight: lighter ;
+  margin-left: 4%;
+  margin-top: 4%;
+}
+.agent{
+  font-family:sans-serif;
+  font-weight: lighter ;
+  margin-left: 4%;
+  margin-top: 4%;
+}
+.properties{
+  font-family:sans-serif;
+  font-weight: lighter ;
+  margin-left: 4%;
+  margin-top: 4%;
+}
+.blog{
+  font-family:sans-serif;
+  font-weight: lighter ;
+  margin-left: 4%;
+  margin-top: 4%;
+}
+.contact{
+  font-family:sans-serif;
+  font-weight: lighter ;
+  margin-left: 4%;
+  margin-top: 4%;
+}

@@ -1,0 +1,32 @@
+.caro-edit {
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin-top: 2%;
+}
+
+.hero-img {
+    margin: auto;
+    display: flex;
+    height: 190px;
+    width: 170px;
+    border-radius: 100px;
+
+}
+
+.doc-6 {
+    margin-top: 3%;
+
+}
+
+.client {
+    color:mediumslateblue;
+    margin-left: 39%;
+    font-size: xx-large;
+}
+
+.para {
+    margin-left: 5%;
+    margin-top: 4%;
+}

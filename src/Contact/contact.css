@@ -1,0 +1,147 @@
+.End-rest{
+    position: relative;
+}
+.Onepiece{
+    
+    background-color: #00308F;
+    /* margin-top: 5%; */
+    padding: 5%;
+}
+.words{
+    margin: auto;
+    /* margin-top: 5%; */
+    display: flex;
+    justify-content: center;
+    color: white;
+    
+}
+.input{
+    margin-top: 5%;
+   margin-left: 30%;
+   padding-left: 2%;
+    padding-right: 8%;
+    background-color: aliceblue;
+    border: aliceblue;
+    border-radius: 5px;
+}
+.button{
+    margin-left: 1%;
+    color: white;
+    background-color:darkslateblue;
+    border-color: darkslateblue;
+    border-radius: 5px;
+}
+.last{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 6%;
+}
+.no-2{
+    display: flex;
+    margin-top: 2%;
+}
+.p1{
+    margin-left:  14.5%;
+}
+.p2{
+    margin-left: 11%;
+}
+.p3{
+    margin-left: 12%;
+    font-size: 1.2rem;
+    margin-bottom: 2%;
+}
+.p4{
+    margin-left: 4%;
+}
+.no-3{
+    display: flex;
+    margin-top: 2%;
+}
+.c1{
+    margin-left: 14.5%;
+}
+.c2{
+margin-left: 16%;
+}
+.c3{
+    margin-left: 12%;
+}
+.c4{
+    margin-left: 20%;
+}
+.no-4{
+    display: flex;
+    margin-top: 2%;
+}
+.d1{
+    margin-left: 14.5%;
+}
+.d2{
+    margin-left: 15.5%;
+}
+
+.d3{
+    margin-left: 17.5%;
+    font-size: 1.2rem;
+   
+}
+.d4{
+    margin-left: 5.5%;
+}
+.no-5{
+    display: flex;
+    margin-top: 2%;
+}
+.e1{
+    margin-left: 14.5%;
+
+}
+.e2{
+    margin-left: 13.5%;
+
+}
+.e3{
+    margin-left: 17.5%;
+}
+.e4{
+    margin-left: 24%;
+}
+.end{
+    background: #0d0d29;
+    color: white;
+    margin-top: 5%;
+    padding: 2%;
+}
+.google{
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-left: 5%;
+    margin-top: 8px;
+}
+.pinterest{
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-left: 2%;
+    margin-top: 8px;
+}
+.twitter{
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 2%;
+}
+.facebook{
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-left: 2%;
+    margin-top: 8px;
+}
+.eed{
+    margin-top: 1%;
+    margin-left: 70%;
+}
